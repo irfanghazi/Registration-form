@@ -1,0 +1,9 @@
+email pass
+
+
+find by id from db
+
+
+dbpass frontpass compare
+true login sucess
+false invaild pass
